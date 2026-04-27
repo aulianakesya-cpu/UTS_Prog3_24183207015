@@ -9,7 +9,8 @@ https://github.com/user-attachments/assets/4648f9f1-aa9e-45bd-8b21-346abe509f1e
 
 ## 📖 Deskripsi Proyek
 **Keyan's Vite Cuisine** 
-  Keyan Vite Cuisine adalah aplikasi pemesanan makanan berbasis Java GUI (Swing) yang dirancang untuk mempermudah operasional pemesanan di sebuah restoran. Aplikasi ini memiliki antarmuka yang ramah pengguna, memungkinkan kasir atau pelayan untuk mencatat pesanan pelanggan, menyesuaikan catatan khusus, dan menghitung total pembayaran secara *real-time* dengan berbagai metode pembayaran.
+
+Keyan Vite Cuisine adalah aplikasi pemesanan makanan berbasis Java GUI (Swing) yang dirancang untuk mempermudah operasional pemesanan di sebuah restoran. Aplikasi ini memiliki antarmuka yang ramah pengguna, memungkinkan kasir atau pelayan untuk mencatat pesanan pelanggan, menyesuaikan catatan khusus, dan menghitung total pembayaran secara *real-time* dengan berbagai metode pembayaran.
 
 Proyek ini dibangun menggunakan **Apache NetBeans** dengan memanfaatkan pustaka **Java Swing** untuk menyusun antarmuka visual yang terstruktur.
 
