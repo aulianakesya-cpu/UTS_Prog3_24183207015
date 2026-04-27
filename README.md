@@ -4,8 +4,8 @@ UTS Pemrograman 3
 # Aplikasi Pemesanan Makanan
 https://github.com/user-attachments/assets/4648f9f1-aa9e-45bd-8b21-346abe509f1e
 
-# 🍽️ Keyan's Vite Cuisine
-Sudut Temu Ruang Rasa
+# 🍽️ Keyan's Vite Cuisine - Sudut Temu Ruang Rasa
+
 
 ## 📖 Deskripsi Proyek
 **Keyan's Vite Cuisine** 
